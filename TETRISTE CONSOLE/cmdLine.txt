@@ -1,0 +1,2 @@
+
+g++ main.cpp -lwinmm include\cJSON\cJSON.cpp -o prog -Iinclude\cJSON
